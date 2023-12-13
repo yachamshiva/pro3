@@ -1,4 +1,4 @@
-# # Use Nginx as the base image
+ # Use Nginx as the base image
 FROM nginx
 
 # Copy index.html from the local directory to the default Nginx web root
